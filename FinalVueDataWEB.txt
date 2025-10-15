@@ -1,0 +1,867 @@
+=== India Jobs ===
+[Page: Home]
+[Section: Hero Headline]
+[Type: description]
+**Delivering Global IT Services and Enterprise Solutions**
+End-to-end expertise across Digital Ecosystem
+
+---
+
+[Page: Home]
+[Section: AI/ML Services]
+[Type: description]
+**AI/ML Services**
+End-to-end AI solutions to optimize workflows, enhance productivity, and reduce costs.
+
+---
+
+[Page: Home]
+[Section: Cloud Solutions]
+[Type: description]
+**Cloud Solutions**
+Help to navigate cloud opportunities and challenges.
+
+---
+
+[Page: Home]
+[Section: Analytics & Reporting]
+[Type: description]
+**Analytics & Reporting**
+Data warehousing, OLAP, Data mining and modeling.
+
+---
+
+[Page: Home]
+[Section: Application Development]
+[Type: description]
+**Application Development**
+Rapid Application Development, Testing and Support.
+
+---
+
+[Page: Home]
+[Section: Digital Marketing]
+[Type: description]
+**Digital Marketing**
+Managing digital media and social platform campaigns to promote products and services.
+
+---
+
+[Page: Home]
+[Section: Service Management]
+[Type: description]
+**Service Management**
+Assessment, Audit, Roadmap Development, Disaster Recovery Planning.
+
+---
+
+[Page: Home]
+[Section: Enterprise Products]
+[Type: description]
+**Enterprise Products derived from Innovative solutions for Engineering & Business problems**
+
+#
+
+[Page: Home]
+[Section: Go-BOSS]
+[Type: description]
+Go-BOSS lets you build your own streaming service, enabling you to manage, publish and monetize your content. You can also release custom branded apps to multiple platforms/app stores in no time. You own the content experience, and we own the platform.
+
+---
+
+#
+
+[Page: Home]
+[Section: DB-DaaS]
+[Type: description]
+DB-DaaS is a robust scalable platform for optimizing database release automation, integrates easily with the existing CI/CD environments, aligning with the existing development process and guidelines.
+
+---
+
+#
+
+[Page: Home]
+[Section: Compliance Care]
+[Type: description]
+Compliance Care is a customizable end-to-end compliance management platform, enabling healthcare providers to benchmark capabilities across matrixed organizations and achieve best-in-class compliance.
+
+---
+
+#
+
+[Page: Home]
+[Section: Wisecube Nephos]
+[Type: description]
+Wisecube Nephos solution provides a complete end-to-end hybrid cloud analytic and machine learning platform that enables real-time collection of data and its transformation into instant actionable intelligence.
+
+---
+
+[Page: Home]
+[Section: Clients]
+[Type: description]
+NEOU, Relief Factor, Microsoft, Samsung, Cascade, DocuSign, Blue Nile, Mythical Games, Orange Pay, Aspen Dental, Alertive Healthcare, Berkshire Grey, Rad Power Bikes
+
+---
+
+[Page: Home]
+[Section: Careers]
+[Type: description]
+**Let’s grow together!**
+We're building a workplace at VueData where amazingly talented and creative people (like you) can be who they are and do their best work.
+
+---
+
+
+---
+
+**\
+
+[Page: Services]
+[Section: Application Services]
+[Type: description]
+VueData’s application services offer end-to-end software development tailored to specific business needs using cutting-edge technologies. The team employs Agile development and a quality assurance process, backed by VueData’s proprietary **5DS methodology**.
+
+**5DS Methodology Overview:**
+VueData’s 5DS methodology enables rapid adaptation and creative problem-solving through structured phases:
+
+* Discovery
+* Design
+* Development
+* Deployment
+* Sustainment
+
+**Sub-services include:**
+
+* App Development & Sustainment
+* Application Modernization
+* Rapid Prototyping
+* Mobile Development (iOS, Android, OTT platforms)
+* QA Services:
+
+  * QA process assessment
+  * Managed testing
+  * Automation testing
+  * Performance engineering/testing
+  * Web services & SOA
+
+---
+
+[Page: Services]
+[Section: Core Mobility Offerings]
+[Type: description]
+VueData provides a wide array of mobile and cross-platform solutions:
+
+**Offerings:**
+
+* Native App Development (iOS, Android, Win8, Blackberry)
+* Web App Development (optimized for mobile)
+* Application Porting
+* Hybrid App Development
+
+**Mobile Strategy & Development:**
+VueData helps clients define mobile strategies and bring web-based or new ideas into mobile platforms, using stacks like .NET, Java, Node.js, MongoDB, and more. UX is validated early using HTML5/native UI.
+
+**Quality Assurance Includes:**
+
+* Performance and security testing
+* Usability/UI validation
+* App store compliance
+* Automation with tools like Robotium, Perfecto, SoapUI
+
+---
+
+[Page: Services]
+[Section: Cloud Solutions]
+[Type: description]
+VueData’s cloud services aim to maximize scalability, maintainability, and cost-efficiency.
+
+**Key Areas of Expertise:**
+
+* Infrastructure Strategy & Design
+* Infrastructure & Cost Optimization
+* Disaster Recovery Planning
+* Security & Governance
+* Cloud Migration & Development
+* SecDevOps (CI/CD/CT with Kubernetes, EC2, Containers)
+
+---
+
+[Page: Services]
+[Section: AI/ML Services]
+[Type: description]
+VueData is a global leader in AI/ML, offering scalable solutions using technologies like OpenAI, Azure, and Google Vertex AI.
+
+**Benefits:**
+
+* Real-time performance analytics
+* Intelligent, cost-effective apps
+* Customized AI frameworks
+* Alignment with latest technologies
+
+**Use Cases:**
+
+* AI-driven shopping experience
+* Computer vision for e-commerce
+* 3D product visualization (AR/VR/MR)
+* Personalized product recommendations
+* Custom 3D modeling tools (iOS/Android)
+
+---
+
+[Page: Services]
+[Section: GenAI Virtual Agents]
+[Type: description]
+VueData’s AI-powered conversational agents are built with Google Cloud and Azure AI integrations.
+
+**Core Features:**
+
+* Intelligent NLP-driven conversations
+* Data-driven personalization
+* Proactive engagement through predictive analysis
+* Continuous learning and improvements
+* Seamless system integration
+
+**Techniques Used:**
+
+* Sentiment Analysis
+* Topic Modeling
+* Intent Recognition
+* Speech-to-text / Text-to-speech
+
+---
+
+[Page: Services]
+[Section: Robotic Process Automation (RPA)]
+[Type: description]
+VueData offers RPA with AI integration for automation of business processes.
+
+**Automation Types:**
+
+* Attended Automation (human-in-the-loop)
+* Unattended Automation
+* Hybrid Automation
+
+**Key Technologies:**
+
+* Cognitive Automation (NLP, ML, Vision)
+* Intelligent Automation (BPA + RPA)
+* Real-time Analytics
+
+**Tool Support:**
+
+* UiPath
+* Automation Anywhere
+* Power Automate
+
+---
+
+[Page: Services]
+[Section: Analytics & Reporting]
+[Type: description]
+VueData provides scalable analytics to extract value from data using tools like OLAP, data mining, and modeling.
+
+**Capabilities:**
+
+* Improved collaboration through shared insights
+* Enhanced visibility and predictive decision-making
+* Customer behavior analysis
+* Real-time business intelligence delivery
+
+---
+
+[Page: Services]
+[Section: Digital Marketing]
+[Type: description]
+VueData partners with marketing teams to drive digital transformation and customer engagement.
+
+**Key Services:**
+
+* Email marketing (strategy, automation, campaign management, template design)
+* Multichannel engagement (email, SMS, push, voice)
+* Scalable engagement platforms with analytics
+* Personalized engagement via machine learning
+
+---
+
+[Page: Services]
+[Section: Service Management]
+[Type: description]
+VueData offers strategic service management to optimize IT operations and ensure business alignment.
+
+**Specializations:**
+
+* ITSM, ITOM, ITBM, ITAM
+* DevOps, Security Ops, GRC
+* HR & Customer Service Management
+
+**Services Offered:**
+
+* Current capability & service assessment
+* Compliance audits
+* Roadmap planning
+* DR & Business Continuity Planning
+* Agile implementation and continual improvement
+* Platform customization and third-party integration
+* Staffing & support for ServiceNow, Zendesk, Freshservice
+
+---
+
+
+---
+
+**\
+
+[Page: Solutions]
+[Section: Overview]
+[Type: description]
+**Innovative Solutions to Your Complex Business Challenges**
+VueData delivers transformative solutions across sectors by combining deep technical knowledge with agile execution. Below are key case studies highlighting their problem-solving capabilities.
+
+---
+
+[Page: Solutions]
+[Section: Case Study 1 – Scaling Payment Solutions Across Inter-bank Market]
+[Type: description]
+**Client Sector:** Inter-bank payments, insurance, and settlement (Asia)
+**Challenge:**
+
+* Build a secure, scalable SaaS platform across multiple countries
+* Support regulatory compliance for each country
+* Integrate with legacy systems and diverse business processes
+
+**VueData’s Solution:**
+
+* Built a microservices-based, asynchronous, containerized platform
+* Created dynamic, configurable business rule workflows
+* Enabled zero-downtime scaling
+* Used Tech Pods to deliver modular, scalable services
+
+**Impact:**
+
+* 50% cost reduction
+* Rolled out in 3 countries within 3 quarters
+* Doubled onboarding capacity per quarter
+* Increased release cycle efficiency by 40%
+
+---
+
+[Page: Solutions]
+[Section: Case Study 2 – Cloud Transformation Journey (Fitness Platform)]
+[Type: description]
+**Challenge:**
+
+* Limited platform flexibility and scalability
+* High infrastructure cost
+* Poor customer engagement
+
+**VueData’s Solution:**
+
+* Built comprehensive cloud migration and microservices strategy
+* Introduced features like:
+
+  * Audio personalization (e.g., Louder instructor/music)
+  * Interactive workouts
+  * Fitness tracker integrations
+  * Social networking (chat, feeds, competitions)
+  * ML-driven content recommendations
+* Centralized analytics with Segment CDP
+
+**Impact:**
+
+* Scaled from 8,000 to 400,000+ users
+* Maintained infrastructure cost despite 50x growth
+* 3x customer retention increase
+* Enabled B2B expansion with 50K+ user surges overnight
+
+---
+
+[Page: Solutions]
+[Section: Case Study 3 – E-commerce Optimization for Loyalty and Sales]
+[Type: description]
+**Challenge:**
+
+* Multi-channel consistency (pricing, brand, product data)
+* Poor mobile UX
+* Scalability issues due to traffic growth
+
+**VueData’s Solution:**
+
+* Modular, microservices-based platform
+* Prioritized delivery of features via managed services
+* Implemented real-time, asynchronous message-based services
+* Scalable, automated DevOps deployment
+
+**Impact:**
+
+* Improved performance across all sales channels
+* Enhanced mobile shopping experience
+* Strengthened infrastructure scalability and resilience
+
+---
+
+[Page: Solutions]
+[Section: Case Study 4 – Data Integration for Operational Efficiency]
+[Type: description]
+**Challenge:**
+
+* Disconnected data silos across systems and processes
+* Lack of centralized control
+
+**VueData’s Solution:**
+
+* SaaS-based Customer Engagement Hub
+* Secure, bi-directional integrations using OAuth/API keys
+* Real-time data streaming and sync
+* Fully managed, schema-flexible integrations
+
+**Key Features:**
+
+* Selective sync with full control over filtering & access
+* SOC 2 Type II certified security and compliance
+
+---
+
+[Page: Solutions]
+[Section: Case Study 5 – Test Automation for Retail Startup]
+[Type: description]
+**Challenge:**
+
+* Lack of test coverage and integration tests
+* Delays in launching key features due to unstable environments
+
+**VueData’s Solution:**
+
+* Introduced QA automation using POM and BDD with Cucumber
+* Created frameworks for smoke, sanity, and regression testing
+* Used tools like Selenium, TestNG, Java, XSL-T
+* Implemented CI/CD for automated QA
+
+**Impact:**
+
+* Regression test coverage increased from 17% to 85%
+* Release speed improved 4x in 3 months
+* Stable testing environments with daily validations
+* Faster bug detection and resolution
+
+---
+
+[Page: Solutions]
+[Section: Case Study 6 – Magento E-commerce Transformation]
+[Type: description]
+**Client:** Healthcare & beauty e-commerce brand
+**Challenge:**
+
+* Migrate from Magento 1.x (EOL) to Magento 2.x
+* Plan headless architecture while ensuring business continuity
+* Balance fraud protection and customer experience
+
+**VueData’s Solution:**
+
+* Migrated to Magento 2.x with zero downtime
+* Introduced headless e-commerce via microservices
+* Reduced transaction errors by migrating to Elavon
+* Automated DevOps to reduce release window downtime by 50%
+* Integrated iterable.com for digital marketing and SEO analytics
+* Implemented Riskified for dynamic fraud detection
+
+**Impact:**
+
+* Fraud rate reduced to <2%
+* Improved customer confidence and transaction approval rates
+* Enhanced digital marketing metrics (e.g., abandoned cart recovery)
+
+---
+
+
+
+---
+
+**\
+
+[Page: Products]
+[Section: DB-DaaS – Optimizing Release Automation]
+[Type: description]
+### Overview:
+
+DB-DaaS is a CI/CD-ready database deployment automation platform designed to streamline and secure the database migration process across SQL and NoSQL systems.
+
+### Key Challenges Solved:
+
+* Manual DB review, versioning, and approval processes.
+* Lack of centralized access management.
+* No consistent DB release model across RDBMS and NoSQL.
+* Limited CI/CD support for database code.
+
+### Features:
+
+* CI/CD delivery pipeline for database deployments.
+* Version control for database code (SQL/NoSQL).
+* Secure, centralized access and config management.
+* Dashboard with analytics and insights.
+* Microservices architecture compatible with cloud/on-prem.
+
+### Value by Role:
+
+**Database Administrators:**
+
+* CI/CD for DB migrations
+* DB delivery efficiencies
+* Workflow automation
+
+**Developers:**
+
+* Streamlined DB deployment
+* Integrated CI/CD
+* Reduced bottlenecks
+
+**Executives:**
+
+* SDLC automation
+* Cost and effort reduction
+* Increased team efficiency
+
+### Key Benefits:
+
+* Eliminates human error
+* Accelerates DB deployments
+* Boosts productivity with code + DB release synchronization
+
+### Supported Technologies:
+
+* Databases: Oracle, SQL Server, MySQL, MongoDB
+* CI/CD Tools: Jenkins, Bamboo, XebiaLabs
+* VCS: GitHub, Bitbucket, Artifactory
+
+### Getting Started Flow:
+
+1. DBA configures app in DB-DaaS
+2. Dev checks in scripts to VCS
+3. Pipeline triggers build in DB-DaaS
+4. DBA approves and DB-DaaS deploys to target DB
+
+---
+
+[Page: Products]
+[Section: Wisecube – Semantic AI Platform for Biomedical Research]
+[Type: description]
+### Overview:
+
+Wisecube unifies biomedical data sources and uses AI/Graph-based models to power faster, smarter drug discovery and medical insights.
+
+### Components:
+
+**Foundational AI:**
+Graph AI trained on biomedical publications, trials, protein/chemical databases.
+
+**Billion Scale Knowledge Graph:**
+Orpheus Knowledge Graph integrates literature, chemicals, proteins, and side effects.
+
+**Drug Discovery AI:**
+Predictive models that accelerate R\&D, enabling faster cure discovery and cost savings.
+
+### Key Benefits:
+
+* **Enhanced Efficiency:** AI shortens development timelines from concept to trials.
+* **Data Adaptability:** Dynamic algorithms handle changing drug structures and targets.
+* **Generalization Capabilities:** Predicts effects of novel compounds.
+
+### Case Study:
+
+Combined NLP + Knowledge Graphs to overcome challenges of siloed, unstructured data—unlocking hidden research insights and enabling real-time knowledge graph generation from biomedical literature.
+
+---
+
+[Page: Products]
+[Section: Go-BOSS – All-in-One Video Streaming Platform]
+[Type: description]
+### Overview:
+
+Go-BOSS enables businesses to launch branded streaming platforms with native support for video hosting, monetization, and multi-device distribution.
+
+### Key Features:
+
+* Branded channel setup via customizable themes
+* User & role management via App CMS
+* Upload & organize content (videos, schedules)
+* Third-party integrations (payments, analytics, social)
+* Launch web, mobile, OTT, gaming, smart TV, voice apps
+
+### Industries Served:
+
+* Sports
+* Entertainment
+* Lifestyle
+* E-learning
+
+### Unique Value:
+
+* Own the user experience while VueData powers the platform
+* Reach audiences on every screen with native and OTT apps
+* Monetize with ease through built-in integrations
+
+---
+
+[Page: Products]
+[Section: ComplianceCare – Customizable Compliance Management]
+[Type: description]
+### Overview:
+
+ComplianceCare is a modular, AI-powered compliance platform designed specifically for healthcare providers to manage compliance workflows across complex organizations.
+
+### Key Capabilities:
+
+* Issue tracking & maturity assessments
+* Risk/conflict management
+* Document management
+* Reporting & dashboarding
+* Custom app support for unique workflows
+
+### Benefits:
+
+* Simplifies compliance with smart customization
+* Integrates privacy, security, and domain-specific knowledge
+* Scalable, pay-as-you-go model
+* Flexible deployments (SaaS, on-prem, Build/Operate/Transfer)
+
+### Key Differentiators:
+
+* Designed specifically for healthcare workflows
+* Leverages cloud + analytics for speed and agility
+* Built-in hotline integration for incident management
+* Seamlessly integrates into existing systems/tools
+
+---
+
+
+
+---
+
+
+---
+
+**\\**
+
+\[Page: Careers]
+\[Section: Culture at VueData]
+\[Type: description]
+At VueData, we believe in fostering an environment where we care for our employees—and in turn, our employees take care of our clients. Our workplace culture promotes openness, learning, collaboration, and growth. We treat employees as partners—not just assets—and empower them with opportunities for continuous learning, innovation, and constructive feedback. VueData is more than just a workplace; it’s a platform for mutual success.
+
+### Core Values – The Three C’s:
+
+* **Care** – Empathy toward employees and their circumstances, prioritizing work-life balance, mental wellness, and flexibility.
+* **Commit** – Dedication to continuous learning, technical innovation, and high performance. We support certifications, experimentation, and meaningful contributions.
+* **Commune** – Building an inclusive community through open communication, diversity, teamwork, and cross-functional collaboration.
+
+### Supporting Practices:
+
+* Flat hierarchy where everyone's voice matters
+* Regular knowledge-sharing sessions with engineers, architects, and product leaders
+* Hackathons and innovation sprints focused on open-source, cloud, and platform tooling
+* Structured mentorship and growth planning around system design and leadership skills
+* Transparent feedback loops with 360° reviews and clear career trajectories
+* Celebration culture: shout-outs, demo days, milestone recognition
+
+---
+
+\[Page: Careers]
+\[Section: Global Career Opportunities]
+\[Type: description]
+**Locations with Open Roles:**
+
+* **Chennai, India**
+* **Bengaluru, India**
+* **USA**
+
+---
+
+\[Page: Careers]
+\[Section: Featured Job Openings]
+\[Type: description]
+
+### Job Title: Technical Lead – MERN Stack
+
+**Job ID:** 120623
+**Position Type:** Full Time
+**Location:** Chennai / Bengaluru, India
+
+**Key Requirements:**
+
+* Strong knowledge in both front-end and back-end technologies (React.js/TypeScript, Node.js, Next.js)
+* Proven experience leading engineering teams
+* Client-facing experience with excellent communication skills
+* Deep architectural understanding and system design competence
+* Strong ownership mindset, quality, and delivery focus
+
+---
+
+### Job Title: MERN Stack Developer
+
+**Job ID:** 120624
+**Position Type:** Full Time
+**Location:** Chennai, India (also Bengaluru postings)
+**Openings:** 2 positions
+
+**Technical Requirements:**
+
+* 5+ years of experience building large-scale web apps as a full stack engineer
+* Strong skills in RESTful API design and integration
+* Technology stack: MongoDB, AWS/Azure, ReactJS with TypeScript, Node.js, Next.js
+* Expertise in debugging, performance optimization, unit/integration testing
+* Familiar with video processing pipelines
+* Experience using CI/CD tools (e.g., Jenkins), Kubernetes architecture, and disaster recovery planning
+* Strong database design skills and business continuity awareness
+
+---
+
+\[Page: Careers]
+\[Location: Chennai]
+
+### Job Title: Open Source Full Stack Developer
+
+**Job ID:** 04032077
+**Position Type:** Full Time
+**Role description:**
+Working closely with cross-functional teams (product, design, business), you’ll help build the next-generation web application as part of our core development team.
+
+**Technical Requirements:**
+
+* 3–6 years of full stack web development experience
+* Node.js for back-end development, with UI in React or Angular, CSS/HTML5
+* Strong MongoDB experience
+* Unit testing across the full stack
+* Familiarity with Docker, Jenkins, AWS, Azure is a plus
+* SEO awareness is advantageous
+* Agile team environment experience, leadership capability, adaptability to new tech
+
+---
+
+### Job Title: .NET Developer
+
+**Job ID:** 02072058
+**Position Type:** Full Time
+**Role description:**
+Seeking senior .NET developers (6–8 years) to work on a core database engine. The role demands strong understanding of the .NET framework, debugging, reusable code libraries, and unit tests. This is largely backend-focused, not full stack.
+
+**Technical Requirements:**
+
+* Deep expertise in latest .NET and C#, clean testable code
+* Strong SQL Server knowledge, PowerShell internals a plus
+* Familiarity with .NET Core desirable
+* Analytical skills to understand system requirements and prioritize tasks
+* Agile environment, strong communication, leadership ability
+
+---
+
+### Job Title: Sr. Java Full Stack Engineers
+
+**Job ID:** 02072134
+**Position Type:** Full Time
+**Role description:**
+Seeking 4–5 years' experienced Java + Spring Boot full-stack engineers, preferably with fintech exposure. Your focus will include system design, concurrency, RESTful services, and large data batch processing.
+
+**Technical Requirements:**
+
+* Java 8/11 or Kotlin
+* Design architecture and REST/JSON API development with Spring
+* SQL experience, especially MariaDB and multithreading architecture
+* AWS experience (EC2, CloudFormation a plus), Docker, Linux/macOS development
+* Additional experience in Jenkins, Docker Compose, Quarkus, LMAX disruptors is favorable
+
+---
+
+### Job Title: Data Engineer
+
+**Job ID:** 2352324
+**Position Type:** Full Time
+**Role description:**
+Join the team to design and build data infrastructure, particularly around clickstream data and analytics/reporting for web and business systems.
+
+**Major Responsibilities:**
+
+* Architect data pipelines, table structures, and data flows
+* Partner with product teams to enable data capture and staging
+* Build ETL pipelines and maintain data quality controls
+* Develop analytics, BI dashboards (Tableau reports), and metadata documentation
+* Integrate data across platforms (CRM, marketing, email systems)
+* Test and optimize SQL queries and ETL jobs; translate business questions into actionable metrics
+
+**Technical Requirements:**
+
+* 3–5 years backend/full stack experience with strong SQL skills; NoSQL preferred
+* Scripting (Python or equivalent), PostgreSQL, MySQL, BigQuery preferred
+* Tableau or similar BI tool experience
+* Familiarity with tagging/event systems (GTM, Segment.io) a plus
+
+---
+
+\[Page: Careers]
+\[Location: USA]
+
+### Job Title: Sr. Software Engineer
+
+**Job ID:** VD\_US\_51205
+**Position Type:** Full Time
+**Location:** Kirkland, WA (Seattle) or Studio City, CA
+
+**Must-Haves / Technical Requirements:**
+
+* Bachelor’s in CS, IT, Software, or related field
+* 5+ years experience in .NET, C#, Blazor, .NET Core, ASP.NET, SQL Server, Cosmos DB, Microsoft Azure
+* Proven experience in team leadership, multi-threaded programming, and enterprise-level system delivery
+* Skilled in enterprise architecture governance and solution design
+* Guided architecture and development of full stack enterprise apps; participated in architectural planning and standards creation
+
+---
+
+### Additional USA-based Roles:
+
+**Job Title:** Technical Program Manager – Sales Systems
+**Job ID:** 12002081
+
+* 6+ years of program management experience
+* Familiar with Salesforce, Agile/SDLC process leadership
+* Ability to manage distributed teams and internal tools
+
+**Job Title:** Senior Sales Enablement Manager
+**Job ID:** 12002085
+
+* Design and deliver sales onboarding/training
+* Experience in coaching, pipeline review, sales tech stack
+
+**Job Title:** Software Development Engineer in Test (SDET)
+**Job ID:** 01092095
+
+* 2–4 years experience in automated testing (Python/Java/C++)
+* Focus on video/network applications and CI/CD pipelines
+
+---
+
+\[Page: Contact]
+\[Section: Office Locations]
+\[Type: description]
+
+**United States – Seattle (Kirkland)**
+11332 NE 122nd Way, Suite 100
+Kirkland, WA 98034
+📞 +1 425 968 2073
+
+**United States – California (Studio City)**
+11020 Ventura Blvd, Unit E
+Studio City, CA 91604
+📞 +1 650 814 2339
+
+**India – Chennai**
+Plot No 43/3, Estate for E\&E Industrial Estate
+Perungudi, Chennai 600096
+📞 +91 44 4858 3311
+
+**India – Bengaluru**
+\#39, 8th Main Road
+Vasanth Nagar, Bengaluru 560052
+📞 +91 80 6132 9999
+
+**Canada – Vancouver**
+505‑151 West Hastings Street
+Vancouver, BC V6B 1H4
+
+---
